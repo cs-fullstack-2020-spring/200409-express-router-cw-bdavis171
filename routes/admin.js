@@ -9,7 +9,7 @@ router.get('/:username', (req,res) => {
     // display welcome back message
     res.send(`Welcome back ${req.params.username}`);
 })
-
+// !! your delete path should be user/:username
 // create admin delete request with params
 router.delete('/:username', (req,res) => {
     // display delete message

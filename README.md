@@ -1,5 +1,8 @@
 # 20-04-09 Express Router CW
 
+Check out my comments in your admin.js file
+### Score ; 4/5
+
 [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#Routes_primer)
 
 ### Set Up
